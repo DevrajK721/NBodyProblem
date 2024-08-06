@@ -1,0 +1,12 @@
+# ninja log v6
+1046	1159	1722383258804272419	NBodySimulation	bd19307d2587bee3
+28	414	1722383185746964456	CMakeFiles/NBodySimulation.dir/imgui/imgui_impl_opengl3.cpp.o	607a08702a74bd9a
+28	2402	1722383185747233621	CMakeFiles/NBodySimulation.dir/imgui/imgui_tables.cpp.o	6e823e414db813fa
+27	6861	1722383185745507660	CMakeFiles/NBodySimulation.dir/imgui/imgui.cpp.o	2af460fca86929eb
+29	4648	1722383185747515038	CMakeFiles/NBodySimulation.dir/imgui/imgui_widgets.cpp.o	41cee2014ca2d52d
+29	1045	1722383257788133542	CMakeFiles/NBodySimulation.dir/main.cpp.o	3ad9845c7d29de63
+27	3328	1722383185745848175	CMakeFiles/NBodySimulation.dir/imgui/imgui_demo.cpp.o	3b681d9103b1f524
+28	1261	1722383185746660915	CMakeFiles/NBodySimulation.dir/imgui/imgui_impl_glfw.cpp.o	b6b0ca89fc938314
+42	327	1722380379298202742	CMakeFiles/NBodySimulation.dir/glad/src/glad.c.o	9e46fe9ef4b09c55
+27	9824	1722383185746268403	CMakeFiles/NBodySimulation.dir/imgui/imgui_draw.cpp.o	25453c3c7932256f
+7	196	1722959579038012784	build.ninja	f70cf66035a87e25

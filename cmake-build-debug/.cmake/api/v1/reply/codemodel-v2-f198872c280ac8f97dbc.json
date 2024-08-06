@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NBodySimulation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NBodySimulation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NBodySimulation-Debug-a17276de879233963b47.json",
+					"name" : "NBodySimulation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/devrajkatkoria/Library/CloudStorage/OneDrive-ImperialCollegeLondon/Quant Prep/Coding Projects/NBodyProblem/cmake-build-debug",
+		"source" : "/Users/devrajkatkoria/Library/CloudStorage/OneDrive-ImperialCollegeLondon/Quant Prep/Coding Projects/NBodyProblem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
